@@ -20,6 +20,7 @@ public class Compartido {
      
         
         System.out.println("primer cambio");
+        System.out.println("segund cambio");
 // TODO code application logic here
     }
     
