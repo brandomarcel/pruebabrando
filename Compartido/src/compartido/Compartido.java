@@ -5,6 +5,8 @@
  */
 package compartido;
 
+import javax.swing.JPanel;
+
 /**
  *
  * @author brand
@@ -15,7 +17,10 @@ public class Compartido {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+     
+        
+        System.out.println("primer cambio");
+// TODO code application logic here
     }
     
 }
